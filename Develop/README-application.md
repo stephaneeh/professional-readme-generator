@@ -1,7 +1,10 @@
-# stephs project
+
+# testing
+
+gplv3
 
 ## Description
-It will do some stuff
+undefined
 
 ## Table of Contents
   - [Title](#title)
@@ -15,19 +18,20 @@ It will do some stuff
   - [Questions](#questions)
 
   ## Installation
-  download application
+  undefined
 
   ## Usage
-  use like this
+  undefined
 
   ## Tests
-  no
+  undefined
 
   ## Contributing
-  dont worry
+  undefined
 
   ## License
   undefined
+  This project is covered by the "undefined" license.
 
   ## Contact/Questions
   Reach out with feedback (questions, ideas, and/or concerns) on GitHub or via email 

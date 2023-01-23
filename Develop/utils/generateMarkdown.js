@@ -1,3 +1,14 @@
+// const licenses = require('./licenses.js');
+
+const licenses = [
+  {name: 'Apache_2.0', badge:'[![License](https://img.shields.io/badge/License-Apache_2.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)'},
+  {name: 'GPLv3', badge: '[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)'},
+  {name: 'ISC', badge: '[![License: ICL](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)'},
+  {name: 'MIT', badge: '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)'},
+  {name: 'Mozilla', badge: '[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)'},
+];
+
+
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {}
@@ -14,6 +25,8 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `
 # ${data.title}
+
+![License](https://img.shields.io/badge/License-${data.license}-blue.svg)
 
 ## Description
 ${data.description}
@@ -42,7 +55,7 @@ ${data.description}
   ${data.contributions}
 
   ## License
-  ${renderLicenseSection(data.licenses)}
+  ${renderLicenseSection(data.license)}
 
   ## Contact/Questions
   Reach out with feedback (questions, ideas, and/or concerns) on GitHub or via email 
