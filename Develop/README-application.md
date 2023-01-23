@@ -1,7 +1,7 @@
-# testing
+# stephs project
 
 ## Description
-undefined
+It will do some stuff
 
 ## Table of Contents
   - [Title](#title)
@@ -15,16 +15,16 @@ undefined
   - [Questions](#questions)
 
   ## Installation
-  undefined
+  download application
 
   ## Usage
-  undefined
+  use like this
 
   ## Tests
-  undefined
+  no
 
   ## Contributing
-  undefined
+  dont worry
 
   ## License
   undefined
