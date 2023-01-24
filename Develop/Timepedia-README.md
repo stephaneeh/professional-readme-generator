@@ -1,10 +1,10 @@
 
-# lulus world
+# Timepedia
 
-![License](https://img.shields.io/badge/License-mit-blue.svg)
+![License](https://img.shields.io/badge/License-n/a-blue.svg)
 
 ## Description
-undefined
+This application has been designed to complete x y z
 
 ## Table of Contents
   - [Title](#title)
@@ -18,23 +18,22 @@ undefined
   - [Questions](#questions)
 
   ## Installation
-  undefined
+  npm install, npm test
 
   ## Usage
-  undefined
+  node index.js
 
   ## Tests
-  undefined
+  validate a file has been generated in the develop folder with a name title Timepedia
 
   ## Contributing
-  undefined
+  n/a
 
   ## License
-  This project is using the mit license.  For further information regarding the use of this license, please follow the link below:
- undefined
+  n/a
 
   ## Contact/Questions
   Reach out with feedback (questions, ideas, and/or concerns) on GitHub or via email 
-  - GitHub: [stpehaneeh](https://github.com/stpehaneeh)
-  - Email: test@test.com
+  - GitHub: [stephaneeh](https://github.com/stephaneeh)
+  - Email: <a href="mailto:test@test.com">test@test.com</a>
   

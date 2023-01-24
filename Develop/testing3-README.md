@@ -1,7 +1,10 @@
 
-# lulus world
+# testing3
 
-![License](https://img.shields.io/badge/License-mit-blue.svg)
+![License](https://img.shields.io/badge/License-gplv3-blue.svg)
+
+undefined
+
 
 ## Description
 undefined
@@ -30,11 +33,11 @@ undefined
   undefined
 
   ## License
-  This project is using the mit license.  For further information regarding the use of this license, please follow the link below:
+  This project is using the gplv3 license.  For further information regarding the use of this license, please follow the link below:
  undefined
 
   ## Contact/Questions
   Reach out with feedback (questions, ideas, and/or concerns) on GitHub or via email 
-  - GitHub: [stpehaneeh](https://github.com/stpehaneeh)
-  - Email: test@test.com
+  - GitHub: [stephaneeh](https://github.com/stephaneeh)
+  - Email: test
   
