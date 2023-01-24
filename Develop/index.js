@@ -39,25 +39,25 @@ const questions = [
         type: 'input',
         name: 'installation',
         message: 'Describe the steps required to install your project for the Installation Instructions section.',
-        default: 'n/a',
+        default: 'N/A',
     },
     {
         type: 'input',
         name: 'usage',
         message: 'Provide instructions for how your project can be used for the Usage Information section.',
-        default: 'n/a',
+        default: 'N/A',
     },
     {
         type: 'input',
         name: 'contributions',
         message: 'Include details on how others can contribute to this project for the Contribution Guildines section.',
-        default: 'n/a',
+        default: 'N/A',
     },
     {
         type: 'input',
         name: 'testing',
         message: 'Are there any tests that should be run to validate this project for the Test Instructions section.',
-        default: 'n/a',
+        default: 'N/A',
     },
     {
         type: 'list',
@@ -81,7 +81,7 @@ const questions = [
 ];
 
 
-// TODO: Create a function to write README file
+// Function to write README file
 const writeFile = util.promisify(fs.writeFile);
 
 function writeToFile() {
@@ -92,7 +92,7 @@ function writeToFile() {
     });
 };
 
-// TODO: Create a function to initialize app
+// Function to initialize app
 function init() {
     writeToFile()
 };
